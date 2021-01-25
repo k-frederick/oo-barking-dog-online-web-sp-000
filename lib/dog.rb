@@ -7,11 +7,11 @@ class Dog
     @the_dogs_name
   end
   def bark
-    
+
   end
 end
 
 fido = Dog.new
 fido.name = "Fido"
 fido.name
-fido.bar
+fido.bark
